@@ -1,0 +1,18 @@
+{
+  "build_timestamp": "2026-03-25 03:35:39 CDT",
+  "full_sha256": "94c19a8a115959bce3b15f05c58749791517b26f61d57129b9de5f32e18ef55a",
+  "module_count": 10,
+  "total_size": 1769984,
+  "modules": [
+    { "file": "module_00.bin", "sha256": "23bbcaa5cd7d381c8c0006476e61f2b41cda0dd7e0908d72e9a8ac2cbeae6d86", "size": 176998 },
+    { "file": "module_01.bin", "sha256": "57eb05996ea2cf150eeba43968f6470852f7354ae848bf61f99274bbaaa51a9e", "size": 176998 },
+    { "file": "module_02.bin", "sha256": "c5096c4fd336585f0941ea06e4502b92d1c648811798d3d61b12064431afcd82", "size": 176998 },
+    { "file": "module_03.bin", "sha256": "dd4920532d50762b3773f3e991f76fd80c84a95be61b9eb8efe434bd47aa5be1", "size": 176998 },
+    { "file": "module_04.bin", "sha256": "32ee0c8b24fb8577f6ecbfe3370c13953b429ab848a392921a5b761348ceb278", "size": 176998 },
+    { "file": "module_05.bin", "sha256": "60276e2ad64acba9f5693d9942ff3ba107288bbb37e4247a8582241bae5b3add", "size": 176998 },
+    { "file": "module_06.bin", "sha256": "57fc4dfcb3b17fd7b9a8e6a0e92de9edf6cec904d70e11ea0ed1cab027017581", "size": 176998 },
+    { "file": "module_07.bin", "sha256": "7f5b92ffc465d758ef743b0ebed3f80daa7ad17eb1c823c5c69a21d8b0aaf7ea", "size": 176998 },
+    { "file": "module_08.bin", "sha256": "735ea2ab314fcd384cb3b9997a68a13374f471e1b2c19eb414b33319675e6984", "size": 176998 },
+    { "file": "module_09.bin", "sha256": "fd6f6a4380003bfeebbae3e327701964d75b3d93653e3ec24e96433db52ec77f", "size": 177002 }
+  ]
+}
