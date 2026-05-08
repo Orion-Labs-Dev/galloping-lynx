@@ -1,11 +1,20 @@
 {
   "version": 1,
-  "updated_utc": "2026-05-07T22:44:25Z",
+  "updated_utc": "2026-05-08T23:54:49.965Z",
   "users": [
     {
       "user_token": "160218b837164929d4e560d2062d47744eed97c620f841cb14f754c68af52032",
       "cap_override": 0,
-      "entries": ["b8de6c2ce524bf33a61819b88c75ea2152a99cd1010e5ad46c1a87f72eabd453"]
+      "entries": [
+        "b8de6c2ce524bf33a61819b88c75ea2152a99cd1010e5ad46c1a87f72eabd453"
+      ]
+    },
+    {
+      "user_token": "bdc5d9cb3e9cc079f606dd046e15d777a512925982aed14ba2d26b45af17e0a1",
+      "cap_override": 0,
+      "entries": [
+        "b8de6c2ce524bf33a61819b88c75ea2152a99cd1010e5ad46c1a87f72eabd453"
+      ]
     }
   ],
   "blacklist": []
