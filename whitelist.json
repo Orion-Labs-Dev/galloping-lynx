@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-05-13T02:56:22.061Z",
+  "updated_utc": "2026-05-13T02:56:58.071Z",
   "users": [
     {
       "user_token": "160218b837164929d4e560d2062d47744eed97c620f841cb14f754c68af52032",
@@ -14,6 +14,13 @@
       "cap_override": 0,
       "entries": [
         "b8de6c2ce524bf33a61819b88c75ea2152a99cd1010e5ad46c1a87f72eabd453"
+      ]
+    },
+    {
+      "user_token": "f03b077cdaf30724fe759b53c32be581cc3b95c36722652a3b0aa712b7cd8f47",
+      "cap_override": 0,
+      "entries": [
+        "bf012eead962054dd22bcbdd9ee69d743c4c8efb169d7748ec427d065c0522f3"
       ]
     }
   ],
